@@ -1,7 +1,7 @@
 /*
  * Ad Soyad: [ENES ZUKRA]
  * Ogrenci No: [250541616]
- * Tarih: [09.11.2025]
+ * Tarih: [09.11.2025] 15.00 - 18.00 
  * Aciklama: Gorev 1 - Geometrik Sekil Hesaplayici
  * 
  * Bu program temel geometrik sekillerin alan ve
